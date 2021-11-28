@@ -1,0 +1,26 @@
+{
+"32288" :{
+	"name":"Abibas GAZELLE",
+	"cost":39700,
+	"description":"Цвет синий, 42 размер",
+	"image":"images/7.jpg"
+	},
+"12543" :{
+	"name":"Abibas Yeezy Boost",
+	"cost":21500,
+	"description":"Цвет черный, 42 размер",
+	"image":"images/8.jpg"
+	},
+"32243" :{
+	"name":"Abibas Superstar ",
+	"cost":41990,
+	"description":"Цвет белый, 39 размер",
+	"image":"images/9.jpg"
+	},
+"56288" :{
+	"name":"Abibas Sharks",
+	"cost":49999,
+	"description":"Цвет бежевый, 43 размер",
+	"image":"images/10.jpg"
+	}
+}

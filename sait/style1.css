@@ -1,0 +1,23 @@
+p {font-family:Montserrat;color: white;}
+h2{font-family:Montserrat;color: white;}
+h1{font-family:Montserrat;color: white;}
+body{
+	background: url(images/5.jpg);
+	}
+.form_input,
+.form_button{
+	font-family:Montserrat;
+	letter-spacing: 1px;
+	font-size: 16px;
+}
+
+.form_button{
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	color: #fff;
+	background-color: #E0FFFF;
+	outline: none;
+	cursor: pointer;
+	transition: 0.3s;
+}
